@@ -1,11 +1,6 @@
 # About This Book
 
 
-
-# What I Learned?
-
-- `random`, `input`, 
-
 # List
 
 - [exercise 1: Number guessing game](notes/1.md)
@@ -20,3 +15,5 @@
 - [exercise 10: Summing anything](notes/10.md) 
 - [exercise 11: Alphabetizing names](notes/11.md)
 - [exercise 12: Word with most repeated letters](notes/12.md)
+- [exercise 13: Printing tuple records](notes/13.md)
+- [exercise 14: Restaurant](notes/14.md)

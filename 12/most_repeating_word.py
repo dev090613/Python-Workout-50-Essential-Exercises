@@ -3,10 +3,10 @@ from collections import Counter
 WORDS = ['this', 'is', 'an',
          'elementary', 'test', 'example']
 
-def most_repeating_letter_count(word):
+def most_repeating_letter_count(word: str) -> int:
     return Counter(word).most_common(1)[0][1]
 
-def most_repeating_word(words: str) -> str:
+def most_repeating_word(words: list) -> str:
     """
     For each word, find the letter that appears the most times.
     Find the word whose most-repeated letter appears more than any other.
